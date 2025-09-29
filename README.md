@@ -5,7 +5,7 @@ The assignment includes implementing classical AI search techniques (DFS, BFS, U
 
 # How to Run
 
-__Run the Blokus game demo-__  
+__Run the Blokus game demo:__  
 python3 game.py
 
 __DFS:__  
@@ -27,8 +27,8 @@ python3 game.py -p small_set.txt -f astar -s 10 10 -H blokus_cover_heuristic -z 
 
 # Project Structure
 
-```search.py```: Implementations of DFS, BFS, UCS, A*.
-```blokus_problems.py```: Problem definitions and heuristics.
-```game.py```: Main file to run Blokus with different search strategies.
-```board.py```: Board logic and rules.
-```util.py```: Data structures (priority queues, stacks, etc.).
+```search.py```: Implementations of DFS, BFS, UCS, A*.  
+```blokus_problems.py```: Problem definitions and heuristics.  
+```game.py```: Main file to run Blokus with different search strategies.  
+```board.py```: Board logic and rules.  
+```util.py```: Data structures (priority queues, stacks, etc.).  
