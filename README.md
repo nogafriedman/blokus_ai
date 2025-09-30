@@ -5,7 +5,7 @@ The assignment includes implementing classical AI search techniques (DFS, BFS, U
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/7521d567-ce2e-48c5-bf3d-374c2328f08d" width="172" /> 
-  <img src="https://github.com/user-attachments/assets/d5ee9695-cb44-4d7a-a02b-7e34332a7ad9" width="175" /> 
+  <img src="https://github.com/user-attachments/assets/d5ee9695-cb44-4d7a-a02b-7e34332a7ad9" width="179" /> 
   <img src="https://github.com/user-attachments/assets/b8e08b86-0b5a-45d4-afed-1e2244861596" width="173" />
 </p>
 
