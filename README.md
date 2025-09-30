@@ -1,7 +1,14 @@
-# Introduction to Artificial Intelligence – Project 1: Search in Blokus
+# AI Search in Blokus
 
-This project was completed as part of the Introduction to Artificial Intelligence course. The goal is to implement and compare search algorithms on puzzles inspired by the board game Blokus.  
+This project was completed as part of the Introduction to Artificial Intelligence course at HUJI. The goal is to implement and compare search algorithms on puzzles inspired by the board game Blokus.  
 The assignment includes implementing classical AI search techniques (DFS, BFS, UCS, A*) and designing admissible heuristics for extended problems like covering corners or multiple locations.
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/7521d567-ce2e-48c5-bf3d-374c2328f08d" width="172" />
+  <img src="https://github.com/user-attachments/assets/d5ee9695-cb44-4d7a-a02b-7e34332a7ad9" width="282" />
+  <img src="https://github.com/user-attachments/assets/b8e08b86-0b5a-45d4-afed-1e2244861596" width="173" />
+</p>
+
 
 # How to Run
 
